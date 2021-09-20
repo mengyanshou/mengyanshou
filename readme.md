@@ -5,3 +5,4 @@
 - 📋 Love computer and guitar.
 - 🏠 Mostly code in Dart、C、Python.
 - 🚀 Powered by love.
+- ✍️ Like write [blog](https://nightmare.fun/blog)
