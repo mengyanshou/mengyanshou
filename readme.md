@@ -7,4 +7,4 @@
 - 🚀 Powered by love.
 - ✍️ Like write [blog](https://nightmare.press/blog/)
 
-[](https://raw.githubusercontent.com/mengyanshou/mengyanshou/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/mengyanshou/mengyanshou/output/github-contribution-grid-snake.svg)
