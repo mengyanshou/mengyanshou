@@ -1,7 +1,7 @@
 ### Nightmare
 ![Nightmare's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengyanshou&count_private=true&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengyanshou&count_private=true)
 
-- 🌱 Full-time **Flutter**er. used work on didi.
+- 🌱 used Full-time **Flutter**er. used work on didi.
 - 📋 Love computer and guitar.
 - 🏠 Mostly code in Dart、C、Python.
 - 🚀 Powered by love.
